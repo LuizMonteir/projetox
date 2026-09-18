@@ -1,7 +1,6 @@
-Realizei uma analise exploratoria, para entender os dados.
+Atualizar a forma de captação de pedidos. Utilizar o merge do sql para pegar o ultimo log e atualizar caso já tenha o id, ao inves de duplicar.
 
-Realizei o tratamento dos dados, retirando os duplicados da origem e destino, uma vez que os logs estavam identicos, iriam atrapalhar nos proximos passos. Alterei os IDs para string, pois boa pratica.
-
-left join de 
-
+Limitações: utilizar pyspark em nuvem para escalonar.
 IAs utilizadas: Gemini para escrita de codigo e Deepseek para escrita do email e escrita de codigo.
+utilizei google sheets para analisar as tabelas 
+
