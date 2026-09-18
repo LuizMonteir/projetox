@@ -1,0 +1,11 @@
+id_pedido,id_cliente,status_x,valor_total,atualizado_em_x,operacao,status_y,atualizado_em_y,fg_both
+10001,565,,2058.99,,,NOVO,2026-05-18 04:32:00,right_only
+10003,551,,502.78,,,PAGO,2026-05-20 22:54:00,right_only
+10020,504,,2447.98,,,ENTREGUE,2026-06-06 08:23:00,right_only
+10031,518,,1178.42,,,NOVO,2026-06-16 00:47:00,right_only
+10045,543,,1700.77,,,NOVO,2026-06-23 06:06:00,right_only
+10064,521,,0.0,,,PAGO,2026-05-23 18:12:00,right_only
+10098,542,,0.0,,,ENTREGUE,2026-06-01 16:11:00,right_only
+10119,542,,0.0,,,PAGO,2026-07-05 07:06:00,right_only
+10140,533,,1548.25,,,PAGO,2026-07-14 14:57:00,right_only
+10141,539,,2840.78,,,PAGO,2026-05-28 03:09:00,right_only
